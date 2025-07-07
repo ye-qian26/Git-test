@@ -1,4 +1,5 @@
 package com.yeqian.service.impl;
 
-public class StudentServiceImpl {
+public interface StudentServiceImpl {
+    void print();
 }
